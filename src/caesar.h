@@ -6,8 +6,8 @@
  *  decryption of single characters as well as strings.
  *
  *  @author Florian Gudat (guddii)
- *  @see https://github.com/guddii/cpp-caesar
- *  @bug https://github.com/guddii/cpp-caesar/issues
+ *  @see https://github.com/guddii/caesar
+ *  @bug https://github.com/guddii/caesar/issues
  */
 
 #if !defined(CAESAR)

@@ -4,8 +4,8 @@
  *
  *  @author Florian Gudat (guddii)
  *  @see https://github.com/google/googletest/tree/master/googletest/docs
- *  @see https://github.com/guddii/cpp-caesar
- *  @bug https://github.com/guddii/cpp-caesar/issues
+ *  @see https://github.com/guddii/caesar
+ *  @bug https://github.com/guddii/caesar/issues
  */
 
 #include "../src/caesar.h"

@@ -1,7 +1,7 @@
 # Caesar Encryption
 A C++ project for caesar en- and decryption
 
-[![Build Status](https://travis-ci.org/guddii/cpp-caesar.svg?branch=master)](https://travis-ci.org/guddii/cpp-caesar)
+[![Build Status](https://travis-ci.org/guddii/caesar.svg?branch=master)](https://travis-ci.org/guddii/caesar)
 
 ## Requirements
 
